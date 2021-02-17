@@ -44,8 +44,11 @@ export const Form = styled.form`
 `;
 
 export const Repositories = styled.div`
-  margin-top: 60px;
+  margin-top: 30px;
   max-width: 700px;
+  width: 100%;
+  max-height: 400px;
+  overflow: hidden scroll;
 
   a {
     background: #fff;
@@ -75,6 +78,7 @@ export const Repositories = styled.div`
 
     div {
       margin-left: 16px;
+      flex: 1;
 
       strong {
         font-size: 20px;
