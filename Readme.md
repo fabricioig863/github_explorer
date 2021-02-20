@@ -45,7 +45,6 @@ $ yarn start
 - styled-components
 - React
 - Typescript
-- NodeJS
 
 
 ## 📝 License
