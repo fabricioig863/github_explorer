@@ -21,8 +21,6 @@ Aplicação desenvolvida durante o bootcamp gostack da Rocketseat, onde desenvol
 
 ## 💻 Como utilizar
 
-Para clonar e rodar essa aplicação você precisará do [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que vem com [npm](http://npmjs.com)) instalado no seu computador. Na sua linha de comando:
-
 ### Faça o clone do repositório
 ```bash
 # Digite o comando abaixo para clonar o repositório
@@ -32,7 +30,7 @@ $ git clone https://github.com/fabricioig863/github_explorer
 ### Iniciando o Projeto
 
 ```bash
-# Vá para o repositório Back-end
+# Vá para o repositório do projeto
 $ cd github-explorer
 
 # Instale as dependencias
